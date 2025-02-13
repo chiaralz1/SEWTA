@@ -38,6 +38,6 @@ All data in this repository are covered by the CC BY-NC-SA license.
 
 ## Contact
 
-For questions or contributions, please contact Sara Solà-Sales [sara.sola@mail.ucv.es] or Chiara Alzetta [chiara.alzetta@ilc.cnr.it].
+For questions or contributions, please contact Sara Solà-Sales [sara.sola@mail.ucv.es], Carmen Moret-Tatay [mariacarmen.moret@ucv.es], or Chiara Alzetta [chiara.alzetta@ilc.cnr.it].
 
 
